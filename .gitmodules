@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "octopus"]
+	path = octopus
+	url = https://github.com/mcodrescu/octopus
+	shallow = true
+	registered = true
